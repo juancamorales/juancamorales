@@ -13,7 +13,7 @@
      
   ¿A donde me dirijo?
   
-     me gusta destacar por mi forma de hacer y ver las cosas
+     Me gusta destacar por mi forma de hacer y ver las cosas
      y hacerlas sentir como las veo y asi tanmbien en el codigo
      
   ¿Que tecnologias uso?
@@ -24,7 +24,6 @@
   JavaScript.js
   React.js
   Node.js
-  Bostram
   Sequelize
   Express.js
   GIT
