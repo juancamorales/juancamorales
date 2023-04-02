@@ -4,14 +4,14 @@
    
    ¿Quien soy?
    
-      Soy un programador Fullstack   
+     Programador Fullstack, Facil trabajo en equipo y solo,
+     con muchas ganas de profundizarme mas en lo que es el 
+     mundo de la programación. Vamos aprender algo nuevo   
    
    ¿Que hago? 
    
      Actualmente me dedico a realizar proyectos que me 
      permitan avanzar en formacion como programador
-     
-  ¿Que soy?
      
   ¿Que tecnologias uso?
   
