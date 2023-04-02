@@ -21,14 +21,7 @@
      El Bootcamp de Henry me ha permitido adquirir el conocimiento 
      y la experiencia para desplegar. Por lo que las tecnologias que uso son:
      
-  JavaScript.js
-  React.js
-  Node.js
-  Sequelize
-  Express.js
-  GIT
-  PostgreSQL
-  MondgoDB
+  bootstrap c express git html5 javascript mysql nodejs postgresql react redux
   
     claramente incluyendo HTML y CSS
    
