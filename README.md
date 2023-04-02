@@ -11,10 +11,7 @@
      Actualmente me dedico a realizar proyectos que me 
      permitan avanzar en formacion como programador
      
-  ¿A donde me dirijo?
-  
-     Me gusta destacar por mi forma de hacer y ver las cosas
-     y hacerlas sentir como las veo y asi tanmbien en el codigo
+  ¿Que soy?
      
   ¿Que tecnologias uso?
   
