@@ -1,13 +1,13 @@
 
 
-   Hola mi nombre es Juan camilo
+   Hola mi nombre es Juan camilo y Me gustaría contarte un poco sobre quien soy
    
-Me gustaría contarte un poco sobre quien soy
-   
-     Me destaco por ser una persona muy dedicada y comprometida en mi trabajo.
-     Siempre trato de hacer lo mejor posible y entregar resultados de calidad. 
-     Me adapto fácilmente a cualquier ambiente de trabajo y me encanta trabajar en equipo.
-     Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formacion como programador
+     Me destaco por ser una persona muy dedicada y comprometida en mi trabajo,
+     Siempre trato de hacer lo mejor posible y entregar resultados de calidad, 
+     tengo muy buena comunicacion en trabajos en equipo y cordinacion para tareas.
+     tengo buenas técnicas que deseo perfeccionar y muy buena adaptabilidad. ¡Vamos aprender algo nuevo!
+     Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formacion como programador.
+     
      
  Algunas de las tecnologias que uso
      
