@@ -5,7 +5,7 @@
      Me destaco por ser una persona muy dedicada y comprometida en mi trabajo,
      Siempre trato de hacer lo mejor posible y entregar resultados de calidad, 
      tengo muy buena comunicacion en trabajos en equipo y cordinacion para tareas.
-     tengo buenas técnicas que deseo perfeccionar y muy buena adaptabilidad. ¡Vamos aprender algo nuevo!
+     tengo buenas técnicas que deseo perfeccionar y muy buena adaptabilidad.
      Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formacion como programador.
      
      
